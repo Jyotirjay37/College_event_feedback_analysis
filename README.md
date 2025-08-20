@@ -101,11 +101,3 @@ college-event-feedback-analysis/
 
 
 
-
-
-
-
-
-**🔗 Share with others who might find it useful!**
-
-**💡 Contributions and feedback are always welcome!**
